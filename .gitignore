@@ -1,0 +1,11 @@
+# Data
+dataset/
+
+# Model
+checkpoints/
+results/
+
+# Miscellaneous
+.env
+*.sh
+venv
